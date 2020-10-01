@@ -1,2 +1,2 @@
-#### EPortfolio2
-Simple page based on jekyll.
+#### mac-design
+Simple static page based on jekyll.
