@@ -1,0 +1,13 @@
+---
+layout: gallery
+title:  "Dom jednorodzinny"
+description: Dom jedorodzinny
+date:   2020-09-30 20:20:35 +0200
+image: assets/images/gab_2.jpg
+rating: 1
+description: Dom jednorodzinny
+images: 
+ - gab_1.jpg
+ - gab_2.jpg
+ - korytarz_1B.jpg
+---

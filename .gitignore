@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-metadata
+.idea
+*.iml
+_collections/_projects/.DS_Store
+_data/
+assets/js/
