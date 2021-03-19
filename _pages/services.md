@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: services
 title: Usługi
 permalink: /services
 ---
