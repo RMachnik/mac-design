@@ -3,6 +3,7 @@
 .blog-header {
     line-height: 1;
     border-bottom: 1px solid #e5e5e5;
+    z-index: 10;
 }
 
 .blog-header-logo {
@@ -160,14 +161,9 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: none;
     margin-bottom: 0;
 }
-.navbar12 {
-    overflow: hidden;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
+.navigation {
     z-index: 10;
     background: white;
-    margin-bottom: 0px;
 }
 .main {
     margin-top: 70px; /* Add a top margin to avoid content overlay */
