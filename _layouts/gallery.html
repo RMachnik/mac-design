@@ -4,8 +4,8 @@ layout: default
 <div class="row justify-content-center">
         <div class="row">
             {% for image in page.images %}
-                <a href="{{site.baseurl}}/assets/images/{{image}}" data-lightbox="lightbox" data-gallery="example-gallery" class="col-sm-4" style="padding: 10px">
-                    <img src="{{site.baseurl}}/assets/images/{{image}}" class="img-fluid">
+                <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox" data-gallery="example-gallery" class="col-sm-4" style="padding: 10px">
+                    <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" class="img-fluid">
                 </a>
             {% endfor %}
         </div>
