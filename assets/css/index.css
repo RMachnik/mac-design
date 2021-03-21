@@ -2,7 +2,7 @@
 
 .blog-header {
     line-height: 1;
-    background: #F8F8FF;
+    background: #f9f9f9;
     border-bottom: 1px solid #e5e5e5;
     z-index: 10;
 }
@@ -162,6 +162,7 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: none;
     margin-bottom: 0;
 }
+
 .navigation {
     background: white;
 }
