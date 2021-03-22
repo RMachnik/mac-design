@@ -36,10 +36,6 @@ plugins:
 collections:
   projects:
     output: true
-
-assets:
-    - assets/fonts/
-
 defaults:
   - scope:
       path: "assets/img"
