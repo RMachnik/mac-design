@@ -49,6 +49,8 @@ collections:
   projects:
     output: true
 
+assets:
+    - assets/fonts
 
 defaults:
   - scope:
