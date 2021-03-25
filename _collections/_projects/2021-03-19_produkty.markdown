@@ -6,7 +6,7 @@ date:   2020-09-30 20:20:35 +0200
 image: assets/images/grzesiek_produkty/01_stolik_kawowy.jpg
 rating: 1
 images: 
- - grzesiek_produkty/01_stolik_kawowy.jpg
- - grzesiek_produkty/02_stolik_kawowy.png
- - grzesiek_produkty/02_szafa.jpg
+ - grzesiek_produkty/01_stolik_kawowy-min.jpg
+ - grzesiek_produkty/02_stolik_kawowy-min.png
+ - grzesiek_produkty/02_szafa-min.jpg
 ---

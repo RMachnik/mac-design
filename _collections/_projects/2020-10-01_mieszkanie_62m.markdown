@@ -6,10 +6,10 @@ date:   2020-09-30 20:20:35 +0200
 image: assets/images/mieszkanie_62m2/07_kuchnia.jpg
 rating: 1
 images: 
- - mieszkanie_62m2/01_b_lazienka.jpg
- - mieszkanie_62m2/02_b_LAZIENKA.jpg
- - mieszkanie_62m2/04_b_LAZIENKA.jpg
- - mieszkanie_62m2/08_kuchnia.jpg
- - mieszkanie_62m2/09_kuchnia.jpg
- - mieszkanie_62m2/10_kuchnia.jpg
+ - mieszkanie_62m2/01_b_lazienka-min.jpg
+ - mieszkanie_62m2/02_b_LAZIENKA-min.jpg
+ - mieszkanie_62m2/04_b_LAZIENKA-min.jpg
+ - mieszkanie_62m2/08_kuchnia-min.jpg
+ - mieszkanie_62m2/09_kuchnia-min.jpg
+ - mieszkanie_62m2/10_kuchnia-min.jpg
 ---
