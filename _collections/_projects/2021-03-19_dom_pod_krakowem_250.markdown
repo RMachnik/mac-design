@@ -2,7 +2,7 @@
 layout: gallery
 title:  "Dom pod Krakowem 250m2"
 description: dom w stylu nowoczesnym
-date:   2020-09-30 20:20:35 +0200
+date:   2021-03-19 19:20:35 +0200
 image: assets/images/dom_250m2/done_2.jpg
 rating: 1
 images: 

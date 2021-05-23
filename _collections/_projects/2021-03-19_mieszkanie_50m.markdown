@@ -2,7 +2,7 @@
 layout: gallery
 title:  "Mieszkanie 50m2"
 description: męskie mieszkanie w stylu industrialnym
-date:   2020-09-30 20:20:35 +0200
+date:   2020-03-19 20:20:35 +0200
 image: assets/images/michcio_mieszkanie_50m/07_SALON.jpg
 rating: 1
 images: 

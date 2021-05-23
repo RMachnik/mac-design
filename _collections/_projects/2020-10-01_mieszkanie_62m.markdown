@@ -2,7 +2,7 @@
 layout: gallery
 title:  "Mieszkanie 64m2"
 description: mieszkanie w ocieplonym stylu industrialnym
-date:   2020-09-30 20:20:35 +0200
+date:   2020-10-01 20:20:35 +0200
 image: assets/images/mieszkanie_62m2/07_kuchnia.jpg
 rating: 1
 images: 
