@@ -9,7 +9,7 @@ images:
  - asia_marcin/03_salon-min.jpg
  - asia_marcin/04_salon-min.jpg
  - asia_marcin/05_hol-min.jpg
- - asia_marcin/06_salon_hol-min.jpg
+ - asia_marcin/06_kuchnia_hol-min.jpg
  - asia_marcin/07_salon_closeup-min.jpg
  - asia_marcin/08_c_lazienka-min.jpg
  - asia_marcin/09_lazienka-min.jpg
