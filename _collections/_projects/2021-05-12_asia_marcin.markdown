@@ -2,7 +2,7 @@
 layout: gallery
 title:  "Mieszkanie z wiatrołapem"
 description: Mieszkanie wykończone w drewnie
-date:   2021-05-12 21:20:35 +0200
+date:   2021-05-12 20:20:35 +0200
 image: assets/images/asia_marcin/01_salon-min.jpg
 images: 
  - asia_marcin/02_kuchnia_salon-min.jpg
