@@ -1,8 +1,8 @@
 ---
 layout: gallery
 title:  "Mieszkanie z wiatrołapem"
-description: Mieszkanie wykończone w drewnie
-additionalDescription: Mieszkanie wykończone w drewnie
+description: Projekt Kalwaria
+additionalDescription: Kalwaria
 date:   2021-05-12 20:20:35 +0200
 image: assets/images/asia_marcin/01_salon-min.jpg
 images: 
@@ -17,7 +17,7 @@ images:
  - asia_marcin/10_lazienka-min.jpg
  - asia_marcin/11_lazienka-min.jpg
  - asia_marcin/12_SYPIALNIA-min.jpg
- - asia_marcin/13_SYPIALNIA-min.jpg
+ - asia_marcin/13_SYPIALNIA-min.jpga
  - asia_marcin/14_sypialnia-min.jpg
  - asia_marcin/15_sypialnia-min.jpg
  - asia_marcin/16_wiatrolap-min.jpg
