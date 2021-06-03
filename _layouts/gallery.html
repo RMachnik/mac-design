@@ -15,9 +15,13 @@ layout: default
             {% for image in page.images %}
             <div class="row">
                 <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox"
-                   data-gallery="example-gallery" class="col" style="padding: 5px">
-                    <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" class="img-fluid"
-                         alt="">
+                   data-gallery="example-gallery" class="col p-2">
+                    <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}"
+                         loading="lazy"
+                         class="img-fluid"
+                         alt=""
+                         decoding="async"
+                    />
                 </a>
             </div>
             {% endfor %}
