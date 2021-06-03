@@ -4,7 +4,6 @@ layout: default
 <div>
     <div class="row p-5">
         <div class="col-md-3">
-<!--            position-fixed" style="left: 10em"-->
             <div class="text-uppercase text-right">
                 <div class="text-muted">
                     Projekt
@@ -17,7 +16,8 @@ layout: default
             <div class="row">
                 <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox"
                    data-gallery="example-gallery" class="col" style="padding: 5px">
-                    <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" class="img-fluid">
+                    <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" class="img-fluid"
+                         alt="">
                 </a>
             </div>
             {% endfor %}
