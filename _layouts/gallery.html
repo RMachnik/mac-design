@@ -2,13 +2,21 @@
 layout: default
 ---
 <div>
-
-    {% for image in page.images %}
-    <div class="row">
-        <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox"
-           data-gallery="example-gallery" class="col" style="padding: 5px">
-            <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" class="img-fluid">
-        </a>
+    <div class="row" style="padding-top: 10px">
+        <div class="col-3">
+            <div style="position:fixed">
+                {{ page.additionalDescription }}
+            </div>
+        </div>
+        <div class="col-9">
+            {% for image in page.images %}
+            <div class="row">
+                <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox"
+                   data-gallery="example-gallery" class="col" style="padding: 5px">
+                    <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" class="img-fluid">
+                </a>
+            </div>
+            {% endfor %}
+        </div>
     </div>
-    {% endfor %}
 </div>
