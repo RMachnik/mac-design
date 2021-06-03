@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-<div class="d-flex p-2">
-        <div class="row">
-            {% for image in page.images %}
-                <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox" data-gallery="example-gallery" class="col-sm-4" style="padding: 10px">
-                    <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" class="img-fluid">
-                </a>
-            {% endfor %}
-        </div>
+<div>
+
+    {% for image in page.images %}
+    <div class="row">
+        <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox"
+           data-gallery="example-gallery" class="col" style="padding: 5px">
+            <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" class="img-fluid">
+        </a>
+    </div>
+    {% endfor %}
 </div>
