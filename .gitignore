@@ -6,3 +6,4 @@ _site
 _collections/_projects/.DS_Store
 .DS_Store
 **/.DS_Store
+Gemfile.lock
