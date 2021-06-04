@@ -3,7 +3,7 @@ layout: default
 ---
 <div>
     <div class="row p-5">
-        <div class="col-md-3">
+        <div class="col-md-4">
             <div class="text-uppercase text-right">
                 <div class="text-muted">
                     Projekt
@@ -11,14 +11,14 @@ layout: default
                 <h4>{{ page.additionalDescription }}</h4>
             </div>
         </div>
-        <div class="col-md-9">
+        <div class="col-md-8">
             {% for image in page.images %}
             <div class="row">
                 <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox"
                    data-gallery="example-gallery" class="col p-2">
                     <img src="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}"
                          loading="lazy"
-                         class="img-fluid"
+                         class="img-fluid w-75"
                          alt=""
                          decoding="async"
                     />
