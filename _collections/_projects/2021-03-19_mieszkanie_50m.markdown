@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title:  "Mieszkanie 50m2"
-description: męskie mieszkanie w stylu industrialnym
-additionalDescription: męskie mieszkanie
+title:  "Projekt Wola Duchacka"
+description: 
+additionalDescription: Wola Duchacka
 date:   2020-03-19 20:20:35 +0200
 image: assets/images/michcio_mieszkanie_50m/07_SALON.jpg
 rating: 1

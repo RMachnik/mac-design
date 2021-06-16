@@ -1,9 +1,9 @@
 ---
 layout: gallery
 title:  "Wizualizacje projektowe"
-description: meble na zamówienie
-additionalDescription: meble na zamówienie
-date:   2021-03-19 21:20:35 +0200
+description: 
+additionalDescription: Wizualizacje projektowe
+date:   2019-03-19 21:20:35 +0200
 image: assets/images/grzesiek_produkty/01_stolik_kawowy.jpg
 rating: 1
 images: 

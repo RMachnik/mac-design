@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title:  "Mieszkanie 64m2"
-description: mieszkanie w ocieplonym stylu industrialnym
-additionalDescription: mieszkanie w ocieplonym stylu industrialnym
+title:  "Projekt 29 Listopada"
+description: 
+additionalDescription: 29 Listopada
 date:   2020-10-01 20:20:35 +0200
 image: assets/images/mieszkanie_62m2/07_kuchnia.jpg
 rating: 1

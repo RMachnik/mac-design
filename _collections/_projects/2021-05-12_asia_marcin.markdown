@@ -1,7 +1,7 @@
 ---
 layout: gallery
-title:  "Mieszkanie z wiatrołapem"
-description: Projekt Kalwaria
+title:  "Projekt Kalwaria"
+description: 
 additionalDescription: Kalwaria
 date:   2021-05-12 20:20:35 +0200
 image: assets/images/asia_marcin/02_kuchnia_salon-min.webp
