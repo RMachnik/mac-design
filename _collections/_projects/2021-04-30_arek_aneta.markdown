@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title:  "Projekt Podbórze Duchackie"
+title:  "Projekt Podgórze Duchackie"
 description: 
-additionalDescription: Podbórze Duchackie
+additionalDescription: Podgórze Duchackie
 date:   2021-04-30 20:20:35 +0200
 image: assets/images/aneta_arek/01_sypialnia.jpg
 images: 
