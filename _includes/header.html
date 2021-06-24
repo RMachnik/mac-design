@@ -3,7 +3,7 @@
         <div class="text-center">
             <a class="blog-header-logo text-dark" href="{{ site.baseurl | prepend: site.url}}/">{{ site.title }}</a>
         </div>
-        <div>
+        <div class="text-right">
             {% for lang in site.languages %}
             {% if forloop.index0 == 0 %}
             <a class="text-reset text-decoration-none" href="{{ page.url }}">{{ lang }}</a>
