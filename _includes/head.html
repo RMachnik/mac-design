@@ -32,6 +32,7 @@
 <title>{{ site.title }}</title>
 {% endif %}
 
+{% if jekyll.environment == 'production' %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PY2TK43WTY"></script>
 <script>
@@ -41,8 +42,6 @@
 
     gtag('config', 'G-PY2TK43WTY');
 </script>
-{% if jekyll.environment == 'production' %}
-
 {% endif %}
 {% feed_meta %}
 {% seo %}
