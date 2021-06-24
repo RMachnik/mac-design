@@ -3,6 +3,15 @@
         <div class="text-center">
             <a class="blog-header-logo text-dark" href="{{ site.baseurl | prepend: site.url}}/">{{ site.title }}</a>
         </div>
+        <div>
+            {% for lang in site.languages %}
+            {% if forloop.index0 == 0 %}
+            <a class="text-reset text-decoration-none" href="{{ page.url }}">{{ lang }}</a>
+            {% else %}
+            |<a class="text-reset text-decoration-none" href="/{{ lang }}{{ page.url }}">{{ lang }}</a>
+            {% endif %}
+            {% endfor %}
+        </div>
         <div class="nav-scroller">
             <nav class="nav d-flex justify-content-center">
                 <a class="p-3 text-uppercase text-muted small"
@@ -11,7 +20,7 @@
                 </a>
                 <a class="p-3 text-uppercase text-muted small"
                    href="{{ site.baseurl | prepend: site.url}}/services.html">
-                    Oferta
+                    {% t navbar.offer %}
                 </a>
                 <a class="p-3 text-uppercase text-muted small"
                    href="{{ site.baseurl | prepend: site.url}}/projects.html">
@@ -19,7 +28,7 @@
                 </a>
                 <a class="p-3 text-uppercase text-muted small"
                    href="{{ site.baseurl | prepend: site.url}}/contact.html">
-                    Kontakt
+                    {% t navbar.contact %}
                 </a>
             </nav>
         </div>

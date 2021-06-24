@@ -23,7 +23,7 @@
         media="print"
         onload="this.media='all'; this.onload=null;"
         rel="stylesheet"
-        href="{{ "/assets/css/index.css" | relative_url }}"
+        href="{{ "/assets/css/index.css" | prepend: site.baseurl_root }}"
 >
 
 {% if page.title %}

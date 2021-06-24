@@ -1,0 +1,17 @@
+super:
+  title: Angielski
+
+navbar:
+  offer: Offer
+  contact: Contact
+
+
+offer:
+  main: "We are doing something"
+
+
+
+
+footer:
+  area: "We are covering area of Podkarpacie and Malopolska."
+  offer: "We offer flexible working style - on side or remote."
