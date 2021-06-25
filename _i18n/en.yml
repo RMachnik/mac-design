@@ -1,17 +1,31 @@
-super:
-  title: Angielski
-
 navbar:
   offer: Offer
   contact: Contact
 
-
 offer:
-  main: "We are doing something"
-
-
-
+  main: "We are doing interior design of houses and flats. We do simple but unique projects, don't hiding behind single style. We thrive to find most suitable interior specially for you. We try to find the best fit of functionality and beautiful design and form. All design decisions are made to meet your needs. We propose three models of cooperation."
 
 footer:
   area: "We are covering area of Podkarpacie and Malopolska."
   offer: "We offer flexible working style - on side or remote."
+
+projects:
+  project: "Project"
+  products:
+    title: "Product visualisations"
+    desc1: "Product visualisations"
+  29Nov:
+    title: "Project 29 November Avenue"
+    desc1: "29 November Avenue"
+  wierzchowie:
+    title: "Project Wierzchowie"
+    desc1: "Wierzchowie"
+  wolaDuchacka:
+    title: "Project Wola Duchacka"
+    desc1: "Wola Duchacka"
+  podgorzeDuchackie:
+    title: "Project Podgórze Duchackie"
+    desc1: "Podgórze Duchackie"
+  kalwaria:
+    title: "Project Kalwaria"
+    desc1: "Kalwaria"

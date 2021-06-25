@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title:  "Projekt Kalwaria"
+title:  projects.kalwaria.title
 description: 
-additionalDescription: Kalwaria
+additionalDescription: projects.kalwaria.desc1
 date:   2021-05-12 20:20:35 +0200
 image: assets/images/asia_marcin/02_kuchnia_salon-min.webp
 images: 

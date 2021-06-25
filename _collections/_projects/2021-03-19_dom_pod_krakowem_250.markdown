@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title:  "Projekt Wierzchowie"
+title:  projects.wierzchowie.title
 description: 
-additionalDescription: Wierzchowie
+additionalDescription: projects.wierzchowie.desc1
 date:   2021-03-19 19:20:35 +0200
 image: assets/images/dom_250m2/done_2-min.jpg
 rating: 1

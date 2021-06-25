@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title:  "Projekt 29 Listopada"
+title: projects.29Nov.title
 description: 
-additionalDescription: 29 Listopada
+additionalDescription: projects.29Nov.desc1
 date:   2020-10-01 20:20:35 +0200
 image: assets/images/mieszkanie_62m2/07_kuchnia-min.jpg
 rating: 1

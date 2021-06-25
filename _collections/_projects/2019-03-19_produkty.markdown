@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title:  "Wizualizacje projektowe"
+title:  projects.products.title
 description: 
-additionalDescription: Wizualizacje projektowe
+additionalDescription: projects.products.desc1
 date:   2019-03-19 21:20:35 +0200
 image: assets/images/grzesiek_produkty/01_stolik_kawowy.jpg
 rating: 1

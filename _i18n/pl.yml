@@ -1,14 +1,31 @@
-super:
-  title: Polski
-
 navbar:
   offer: Oferta
   contact: Kontakt
 
-
 offer:
-  main: "Polski Zajmujemy się projektowaniem wnętrz domów i mieszkań. Projektujemy wnętrza eklektyczne, nie chowamy się za jednym stylem projektowym. Są to wnętrza dopasowane do Ciebie i Twoich potrzeb. Łączymy to co piękne z funkcjonalną formą. Odpowiednio dla Twoich potrzeb, stworzyliśmy trzy możliwości współpracy."
+  main: "Zajmujemy się projektowaniem wnętrz domów i mieszkań. Projektujemy wnętrza eklektyczne, nie chowamy się za jednym stylem projektowym. Są to wnętrza dopasowane do Ciebie i Twoich potrzeb. Łączymy to co piękne z funkcjonalną formą. Odpowiednio dla Twoich potrzeb, stworzyliśmy trzy możliwości współpracy."
 
 footer:
   area: "Realizujemy projekty na terenie Podkarpacia oraz Małopolski."
   offer: "Sposób współpracy dogodny dla Ciebie. Wybierz formę stacjonarną lub online."
+
+projects:
+  project: "Projekt"
+  products:
+    title: "Wizualizacje projektowe"
+    desc1: "Wizualizacje projektowe"
+  29Nov:
+    title: "Projekt 29 Listopada"
+    desc1: "29 Listopada"
+  wierzchowie:
+    title: "Projekt Wierzchowie"
+    desc1: "Wierzchowie"
+  wolaDuchacka:
+    title: "Projekt Wola Duchacka"
+    desc1: "Wola Duchacka"
+  podgorzeDuchackie:
+    title: "Projekt Podgórze Duchackie"
+    desc1: "Podgórze Duchackie"
+  kalwaria:
+    title: "Projekt Kalwaria"
+    desc1: "Kalwaria"

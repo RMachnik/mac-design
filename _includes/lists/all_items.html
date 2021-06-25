@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-4">
                 <a class="text-decoration-none text-reset text-right" href="{{ site.baseurl | prepend: site.url}}/{{item.url}}">
-                    <h5>{{ item.title }}</h5>
+                    <h5>{% t item.title %}</h5>
                     <p class="card-text">{{ item.description }}</p>
                 </a>
             </div>

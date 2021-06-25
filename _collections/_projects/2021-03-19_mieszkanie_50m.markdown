@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title:  "Projekt Wola Duchacka"
+title:  projects.wolaDuchacka.title
 description: 
-additionalDescription: Wola Duchacka
+additionalDescription: projects.wolaDuchacka.desc1
 date:   2020-03-19 20:20:35 +0200
 image: assets/images/michcio_mieszkanie_50m/07_SALON-min.jpg
 rating: 1
