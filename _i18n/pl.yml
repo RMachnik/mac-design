@@ -4,6 +4,48 @@ navbar:
 
 offer:
   main: "Zajmujemy się projektowaniem wnętrz domów i mieszkań. Projektujemy wnętrza eklektyczne, nie chowamy się za jednym stylem projektowym. Są to wnętrza dopasowane do Ciebie i Twoich potrzeb. Łączymy to co piękne z funkcjonalną formą. Odpowiednio dla Twoich potrzeb, stworzyliśmy trzy możliwości współpracy."
+  basicTitle: "Oferta Podstawowa"
+  basicDesc: "Opcja ta jest skierowana do osób o wysokim poczuciu estetycznym, które nie potrzebują pełnego
+            projektu, a jedynie wytycznych w postaci układu funkcjonalnego oraz ogólnych założeń estetycznych."
+  analysis: "analiza potrzeb klienta"
+  stocktaking: "inwentaryzacja wnętrza – dokładny pomiar stanu istniejącego"
+  functionalLayout: "układ funkcjonalny w formie rzutów 2D"
+  moodBoard: "MOODBOARD – założenia kolorystyczne i estetyczne"
+  advanced: "Oferta Rozszeżona"
+  advancedDesc: "Dla osób, które potrzebują pełnego projektu, aby nie tracić czasu na samodzielny wybór
+            materiałów,
+            chcą mieć pełny projekt, aby nie stresować się koniecznością wyboru poszczególnych elementów i
+            chcą
+            zaoszczędzić czas."
+  include: "Zawiera"
+  increasedOf: "powiększoną o:"
+  materialsSelection: "wspólny dobór materiałów do wnętrza"
+  technicalDraw: "rysunki techniczne w tym:"
+  functionalSystem: "układ funkcjonalny"
+  wallPlan: "układ ścian"
+  floorPlan: "układ podłóg"
+  droppedCeiling: "układ sufitów podwieszanych"
+  electricSockets: "rozmieszczenie punktów elektrycznych"
+  heatingPlan: "rozmieszczenie przyłączy wod.-kan. oraz instalacji ogrzewania"
+  wallsView: "rzuty widoków ścian"
+  furnitureDocumentation: "przygotowanie dokumentacji dla mebli robionych na zamowienie"
+  materialsSelectionPlan: "zestawienie materiałowe dla elementów wyposażenia wraz z ilościami,
+                        adresem sklepów lub adresem strony internetowej orac ceny."
+  advancedPlus: "Oferta Rozszeżona Plus"
+  advancedPlusDesc: "Jeśli kupiłeś mieszkanie na wynajem lub jeśli jesteś osobą zabieganą i nie masz czasu na nadzór nad wykonawcami.
+            Kupiłeś mieszkanie w innym mieście niż mieszkasz lub jesteś obcokrajowcem i nie masz możliwości czy wiedzy o procesie projektowania i nadzoru.
+            Jeśli chcesz oszczędzić sobie stresu i czasu wybierz tą opcję!"
+  scheme: "harmonogram oraz kosztorys prac i materiałów budowlanych"
+  materialsWithContractors: "przygotowanie zamówień produktów i usług podwykonawców"
+  transport: "organizowanie płatności i transportu"
+  control: "ustalenie i kontrona harmonogramu pracy na budowie"
+  constructionDriver: "omówienie rozwiązań technicznych z podwykonawcami"
+  assuranceOfSchedule: "koordynacja prac wykonawców"
+  qualityAssurance: "odbiór prac wykonawców"
+  cleaning: "przygotowanie inwestycji do odbioru przez klienta, w tym gruntowne sprzątanie po remoncie,
+                zakup
+                dekoracji, na życzenie klienta zakup wyposażenia"
+  photoShooting: "profesjonalna sesja zdjęciowa Twojego Wnętrza!"
 
 footer:
   area: "Realizujemy projekty na terenie Podkarpacia oraz Małopolski."
