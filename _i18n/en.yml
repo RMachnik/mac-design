@@ -1,6 +1,7 @@
 navbar:
-  offer: Offer
-  contact: Contact
+  offer: offer
+  contact: contact
+  portfolio: portfolio
 
 offer:
   main: "We are doing interior design of houses and flats. We do simple but unique projects, don't hiding behind single style. We thrive to find most suitable interior specially for you. We try to find the best fit of functionality and beautiful design and form. All design decisions are made to meet your needs. We propose three models of cooperation."
