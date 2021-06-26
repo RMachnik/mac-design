@@ -4,15 +4,15 @@ navbar:
   portfolio: portfolio
 
 offer:
-  main: "We are doing interior design of houses and flats. We do simple but unique projects, don't hiding behind single style. We thrive to find most suitable interior specially for you. We try to find the best fit of functionality and beautiful design and form. All design decisions are made to meet your needs. We propose three models of cooperation."
+  main: "We design interiors of houses and flats. We do simple but unique projects. Not being hidden behind single style. We thrive to find most suitable interior specially for you. We find the best fit of functionality and beautiful design and cachet. All design decisions are made to meet your needs. We propose three models of cooperation."
   basicTitle: "Basic Plan"
-  basicDesc: "Well suit for people that value tasteful design. It does not contain full project but just functional system and general design tips and  directions."
+  basicDesc: "Well suit for people that value tasteful design. It does not contain full project, but functional layout and general design tips and directions."
   analysis: "needs analysis"
   stocktaking: "architectural survey - detailed inventory of existing state"
   functionalLayout: "2D documentation of functional layout"
-  moodBoard: "MOODBOARD - initial aesthetic and color design"
+  moodBoard: "MOODBOARD - initial aesthetic and color selection"
   advanced: "Advanced Plan"
-  advancedDesc: "Ideal for people looking for full project. If you are looking to safe time selecting materials. It is reducing stress giving responsibility to professional designer."
+  advancedDesc: "Ideal for people looking for full project. If you are looking to safe time selecting materials. We help to reduce stress taking the responsibility to deliver the best design fitting your needs."
   include: "Includes"
   increasedOf: "in addition to:"
   materialsSelection: "materials selection"
@@ -27,20 +27,20 @@ offer:
   furnitureDocumentation: "custom furniture documentation"
   materialsSelectionPlan: "materials inventory with count and shop addresses"
   advancedPlus: "Advanced Plus Plan"
-  advancedPlusDesc: "....."
+  advancedPlusDesc: "When you've made investment into apartment or do not necessarily have time to deal with refitting. You bought apartment in another city that you life in or you are foreigner not having experience with refitting. It is exclusively for you. We are more than happy to deal with everything!"
   scheme: "scheme dates and costs plan"
   materialsWithContractors: "materials order preparation and contractors schedule"
   transport: "dealing with payments and materials supply"
   control: "construction schedule and controlling"
   constructionDriver: "consulting construction work with contractors"
   assuranceOfSchedule: "making sure that construction work is done on schedule"
-  qualityAssurance: "quality assurance"
-  cleaning: "full cleaning of apartment"
+  qualityAssurance: "quality assurance of work being done"
+  cleaning: "full cleaning of apartment getting it ready to move in"
   photoShooting: "professional photo session"
 
 footer:
   area: "We are covering area of Podkarpacie and Malopolska."
-  offer: "We offer flexible working style - on side or remote."
+  offer: "We are flexible, we are doing projects - on side or remote."
 
 projects:
   project: "Project"
