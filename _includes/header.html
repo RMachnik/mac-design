@@ -4,9 +4,9 @@
             <div class="text-right text-muted">
                 {% for lang in site.languages %}
                 {% if forloop.index0 == 0 %}
-                <a class="text-reset text-decoration-none" href="{{ site.baseurl | prepend: site.url}}">{{ lang }}</a>
+                <a class="text-reset text-decoration-none" href="{{ site.baseurl_root }}">{{ lang }}</a>
                 {% else %}
-                |<a class="text-reset text-decoration-none" href="{{ site.baseurl | prepend: site.url}}/{{ lang }}">{{ lang }}</a>
+                |<a class="text-reset text-decoration-none" href="{{ site.baseurl_root }}/{{ lang }}">{{ lang }}</a>
                 {% endif %}
                 {% endfor %}
             </div>
