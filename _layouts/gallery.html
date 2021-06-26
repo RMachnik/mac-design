@@ -14,9 +14,9 @@ layout: default
         <div class="col-lg-9">
             {% for image in page.images %}
             <div class="row block mx-w-75">
-                <a href="{{ site.baseurl | prepend: site.url}}/assets/images/{{image}}" data-lightbox="lightbox"
+                <a href="{{ site.baseurl_root }}/assets/images/{{image}}" data-lightbox="lightbox"
                    data-gallery="example-gallery" class="p-2">
-                    <img src="{{ site.baseurl_root | prepend: site.url}}/assets/images/{{image}}"
+                    <img src="{{ site.baseurl_root }}/assets/images/{{image}}"
                          loading="lazy"
                          class="img-fluid"
                          alt=""
