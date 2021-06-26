@@ -1,6 +1,7 @@
 ---
 layout: services
 title: Usługi
-permalink: /services
+permalink: /uslugi.html
+permalink_en: /services.html
 ---
 Jakieś usługi.
