@@ -4,17 +4,19 @@ navbar:
   portfolio: portfolio
 
 offer:
-  main: "We design interiors of houses and flats. We do simple but unique projects. Not being hidden behind single style. We thrive to find most suitable interior specially for you. We are determined to create functional, beautiful and prestigious design. All design decisions are made to meet your needs. We propose three models of cooperation."
+  main: "We design interiors of houses and flats. We do simple but unique projects. Not being hidden behind single style. We thrive to find the most suitable interior specially for you. We are determined to create functional, beautiful and prestigious design. All design decisions are made to meet your needs. We propose three models of cooperation."
   basicTitle: "Basic Plan"
-  basicDesc: "Well fit for people that value tasteful design. It does not contain full project, but functional layout and general design tips and directions."
+  basicDesc: "Well fit for people that value tasteful design. You will receive functional layout, general design tips and directions."
   analysis: "needs analysis"
   stocktaking: "architectural survey - detailed inventory of existing state"
   functionalLayout: "2D documentation of functional layout"
   moodBoard: "MOODBOARD - initial aesthetic and color selection"
+
   advanced: "Advanced Plan"
   advancedDesc: "Ideal for people looking for full project. If you are looking to safe time selecting materials. We help to reduce stress taking the responsibility to deliver the best design fitting your needs."
   include: "Includes"
   increasedOf: "in addition to:"
+  basicExtension: "Basic Plan"
   materialsSelection: "materials selection"
   technicalDraw: "technical drawings: "
   functionalSystem: "functional plan"
@@ -26,8 +28,10 @@ offer:
   wallsView: "walls view"
   furnitureDocumentation: "custom furniture documentation"
   materialsSelectionPlan: "materials inventory with count and shop addresses"
+
   advancedPlus: "Advanced Plus Plan"
   advancedPlusDesc: "When you've made investment into apartment or do not necessarily have time to deal with refitting. You bought apartment in another city that you life in or you are foreigner not having experience with refitting. It is exclusively for you. We are more than happy to deal with everything!"
+  advancedExtension: "Advanced Plan"
   scheme: "scheme dates and costs plan"
   materialsWithContractors: "materials order preparation and contractors schedule"
   transport: "dealing with payments and materials supply"
@@ -40,7 +44,7 @@ offer:
 
 footer:
   area: "We are covering area of Podkarpacie and Malopolska."
-  offer: "We are flexible, we are doing projects - on side or remote."
+  offer: "We are really flexible. We are doing projects - on side or remote."
 
 projects:
   project: "Project"

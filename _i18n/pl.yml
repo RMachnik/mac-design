@@ -12,6 +12,7 @@ offer:
   stocktaking: "inwentaryzacja wnętrza – dokładny pomiar stanu istniejącego"
   functionalLayout: "układ funkcjonalny w formie rzutów 2D"
   moodBoard: "MOODBOARD – założenia kolorystyczne i estetyczne"
+
   advanced: "Oferta Rozszerzona"
   advancedDesc: "Dla osób, które potrzebują pełnego projektu, aby nie tracić czasu na samodzielny wybór
             materiałów,
@@ -20,6 +21,7 @@ offer:
             zaoszczędzić czas."
   include: "Zawiera"
   increasedOf: "powiększoną o:"
+  basicExtension: "Ofertę podstawową"
   materialsSelection: "wspólny dobór materiałów do wnętrza"
   technicalDraw: "rysunki techniczne w tym:"
   functionalSystem: "układ funkcjonalny"
@@ -32,10 +34,12 @@ offer:
   furnitureDocumentation: "przygotowanie dokumentacji dla mebli robionych na zamowienie"
   materialsSelectionPlan: "zestawienie materiałowe dla elementów wyposażenia wraz z ilościami,
                         adresem sklepów lub adresem strony internetowej orac ceny."
+
   advancedPlus: "Oferta Rozszerzona Plus"
   advancedPlusDesc: "Jeśli kupiłeś mieszkanie na wynajem lub jeśli jesteś osobą zabieganą i nie masz czasu na nadzór nad wykonawcami.
             Kupiłeś mieszkanie w innym mieście niż mieszkasz lub jesteś obcokrajowcem i nie masz możliwości czy wiedzy o procesie projektowania i nadzoru.
             Jeśli chcesz oszczędzić sobie stresu i czasu wybierz tą opcję!"
+  advancedExtension: "Ofertę Rozszerzoną"
   scheme: "harmonogram oraz kosztorys prac i materiałów budowlanych"
   materialsWithContractors: "przygotowanie zamówień produktów i usług podwykonawców"
   transport: "organizowanie płatności i transportu"
