@@ -12,6 +12,5 @@ images:
  - rydlowka_lazienka/4-min.jpeg
  - rydlowka_lazienka/5-min.jpeg
  - rydlowka_lazienka/6-min.jpeg
-
-
+ 
 ---
