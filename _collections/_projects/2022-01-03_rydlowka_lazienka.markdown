@@ -3,7 +3,7 @@ layout: gallery
 title:  projects.rydlowkaLazienka.title
 description: 
 additionalDescription: projects.rydlowkaLazienka.desc1
-date:   2022-01-03 20:20:35 +0200
+date:   2022-01-03 07:20:35 +0200
 image: assets/images/rydlowka_lazienka/glowny-min.jpeg
 images: 
  - rydlowka_lazienka/1-min.jpeg
