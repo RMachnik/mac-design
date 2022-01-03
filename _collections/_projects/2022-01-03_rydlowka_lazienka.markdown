@@ -1,10 +1,10 @@
 ---
 layout: gallery
-title:  projects.rydlowka-lazienka.title
+title:  projects.rydlowkaLazienka.title
 description: 
-additionalDescription: projects.rydlowka-lazienka.desc1
+additionalDescription: projects.rydlowkaLazienka.desc1
 date:   2022-01-03 20:20:35 +0200
-image: assets/images/rydlowka_lazienka/glowy-min.jpeg
+image: assets/images/rydlowka_lazienka/glowny-min.jpeg
 images: 
  - rydlowka_lazienka/1-min.jpeg
  - rydlowka_lazienka/2-min.jpeg
