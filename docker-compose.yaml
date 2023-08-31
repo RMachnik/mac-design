@@ -5,7 +5,7 @@ services:
     image: jekyll/jekyll
     container_name: blog
     environment:
-      - JEKYLL_ENV=docker
+      - JEKYLL_ENV=production
     command: jekyll serve --force_polling --livereload --drafts
     ports:
       - 4000:4000
