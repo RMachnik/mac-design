@@ -4,8 +4,11 @@ services:
   jekyll:
     image: jekyll/jekyll
     container_name: blog
+    build: .
     environment:
       - JEKYLL_ENV=production
+      - JEKYLL_UID=1001
+      - JEKYLL_GID=100
     command: jekyll serve --trace --force_polling --livereload --drafts
     ports:
       - 4000:4000
