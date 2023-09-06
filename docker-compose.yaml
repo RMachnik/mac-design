@@ -11,7 +11,7 @@ services:
       - JEKYLL_GID=100
     command: jekyll serve --trace --force_polling --livereload --drafts
     ports:
-      - 4000:4000
-      - 35729:35729
+      - 80:4000
+      - 20358:35729
     volumes:
       - ./:/srv/jekyll
